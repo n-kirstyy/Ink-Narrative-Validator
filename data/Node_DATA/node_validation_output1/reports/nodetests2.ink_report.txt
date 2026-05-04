@@ -1,0 +1,29 @@
+Validation Report: nodetests2.ink.json
+============================================================
+
+Dead Ends — 0
+----------------------------------------
+  No dead ends detected.
+
+Unreachable Nodes — 16
+----------------------------------------
+  buried_shrine
+  dead_grove
+  delta_node_4
+  epsilon_node_5
+  eta_node_7
+  forgotten_path
+  gamma_node_3
+  kappa_node_10
+  key_corridor
+  key_gate
+  lambda_node_11
+  mu_node_12
+  nu_node_13
+  swamp_trap
+  xi_node_14
+  zeta_node_6
+
+Contradictions — 0
+----------------------------------------
+  No contradictions detected.

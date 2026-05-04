@@ -1,0 +1,69 @@
+Validation Report: nodetests5.ink.json
+============================================================
+
+Dead Ends — 0
+----------------------------------------
+  No dead ends detected.
+
+Unreachable Nodes — 55
+----------------------------------------
+  alpha_node_25
+  alpha_node_49
+  beta_node_26
+  beta_node_74
+  chi_node_21
+  chi_node_69
+  dark_shaft
+  delta_node_28
+  delta_node_4
+  delta_node_76
+  epsilon_node_5
+  epsilon_node_53
+  epsilon_node_77
+  eta_node_55
+  eta_node_7
+  flooded_cell
+  gamma_node_27
+  gamma_node_75
+  iota_node_33
+  iota_node_81
+  kappa_node_34
+  kappa_node_82
+  lambda_node_11
+  lambda_node_35
+  lambda_node_83
+  lost_archive
+  mu_node_12
+  mu_node_60
+  mu_node_84
+  nu_node_13
+  nu_node_61
+  omega_node_47
+  omicron_node_39
+  omicron_node_63
+  phantom_room
+  phi_node_20
+  phi_node_68
+  pi_node_40
+  pi_node_88
+  psi_node_46
+  psi_node_70
+  rho_node_48
+  sigma_node_41
+  state_unr_entrance_5
+  state_unr_node_5
+  tau_node_18
+  tau_node_42
+  theta_node_32
+  theta_node_56
+  upsilon_node_19
+  upsilon_node_67
+  xi_node_14
+  xi_node_62
+  zeta_node_54
+  zeta_node_6
+
+Contradictions — 1
+----------------------------------------
+  Dead branches (variable state conflict on path):
+    badge_gate -> exit_node  [variable: has_badge requires true, was set to false]
