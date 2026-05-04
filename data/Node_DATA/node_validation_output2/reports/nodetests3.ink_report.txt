@@ -1,0 +1,40 @@
+Validation Report: nodetests3.ink.json
+============================================================
+
+Dead Ends — 0
+----------------------------------------
+  No dead ends detected.
+
+Unreachable Nodes — 26
+----------------------------------------
+  alpha_node_25
+  beta_node_26
+  chi_node_21
+  collapsed_hall
+  delta_node_28
+  delta_node_4
+  epsilon_node_5
+  eta_node_7
+  gamma_node_27
+  ghost_wing
+  iota_node_33
+  kappa_node_34
+  lambda_node_11
+  lambda_node_35
+  mu_node_12
+  nu_node_13
+  null_chamber
+  phi_node_20
+  state_unr_entrance_3
+  state_unr_node_3
+  tar_pit
+  tau_node_18
+  theta_node_32
+  upsilon_node_19
+  xi_node_14
+  zeta_node_6
+
+Contradictions — 1
+----------------------------------------
+  Dead branches (variable state conflict on path):
+    sigil_gate -> exit_node  [variable: has_sigil requires true, was set to false]
