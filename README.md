@@ -13,7 +13,7 @@ Flow Graph (NFG) representation, and runs three classes of validation:
   Python 3.10 or higher
 
   Install Python dependencies:
-    pip install psutil matplotlib pandas
+    pip install psutil matplotlib pandas networkx
 
 
 ## Installation/Setup
@@ -44,6 +44,11 @@ working directory:
     
 ## Data files
 This repository also includes files that were used for testing and their results
+
+
+## For More Details ...
+See User Manual.pdf
+
 
 ## References
 Verbrugge, C. (2003). A structure for modern computer narratives.
