@@ -1,0 +1,55 @@
+Validation Report: nodetests4.ink.json
+============================================================
+
+Dead Ends — 0
+----------------------------------------
+  No dead ends detected.
+
+Unreachable Nodes — 42
+----------------------------------------
+  alpha_node_25
+  alpha_node_49
+  beta_node_26
+  chi_node_21
+  delta_node_28
+  delta_node_4
+  epsilon_node_5
+  epsilon_node_53
+  eta_node_55
+  eta_node_7
+  gamma_node_27
+  iota_node_33
+  kappa_node_34
+  lambda_node_11
+  lambda_node_35
+  lava_trap
+  mu_node_12
+  mu_node_60
+  nu_node_13
+  nu_node_61
+  omega_node_47
+  omicron_node_39
+  omicron_node_63
+  phi_node_20
+  pi_node_40
+  psi_node_46
+  relic_corridor
+  relic_gate
+  rho_node_48
+  sealed_vault
+  sigma_node_41
+  spirit_hall
+  tau_node_18
+  tau_node_42
+  theta_node_32
+  theta_node_56
+  upsilon_node_19
+  void_chamber
+  xi_node_14
+  xi_node_62
+  zeta_node_54
+  zeta_node_6
+
+Contradictions — 0
+----------------------------------------
+  No contradictions detected.
