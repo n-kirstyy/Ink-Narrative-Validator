@@ -41,6 +41,9 @@ working directory:
     reports/ — Human-readable .txt report per story
     plots/ — Performance plots (runtime, memory, CPU) as PNGs
     story_graphs/ — Narrative structure graph images per story
+    
+## DATA files
+This repository also includes files that were used for testing and their results
 
 ## References
 Verbrugge, C. (2003). A structure for modern computer narratives.
