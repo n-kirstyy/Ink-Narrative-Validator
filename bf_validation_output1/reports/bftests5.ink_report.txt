@@ -1,0 +1,18 @@
+Validation Report: bftests5.ink.json
+============================================================
+
+Dead Ends — 0
+----------------------------------------
+  No dead ends detected.
+
+Unreachable Nodes — 4
+----------------------------------------
+  dream_library
+  infinite_staircase
+  memory_prison
+  spectral_garden
+
+Contradictions — 1
+----------------------------------------
+  Dead branches (variable state conflict on path):
+    mirror_barrier -> exit_node  [variable: has_amulet requires true, was set to false]
