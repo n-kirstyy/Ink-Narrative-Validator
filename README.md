@@ -18,7 +18,7 @@ Flow Graph (NFG) representation, and runs three classes of validation:
 
 ## Installation/Setup
 1. Clone the repository:
-     git clone https://github.com/[n.kirstyy]/ink-narrative-validator.git
+     git clone https://github.com/[n-kirstyy]/ink-narrative-validator.git
      cd ink-narrative-validator
 
 2. Install dependencies:
@@ -42,7 +42,7 @@ working directory:
     plots/ — Performance plots (runtime, memory, CPU) as PNGs
     story_graphs/ — Narrative structure graph images per story
     
-## DATA files
+## Data files
 This repository also includes files that were used for testing and their results
 
 ## References
