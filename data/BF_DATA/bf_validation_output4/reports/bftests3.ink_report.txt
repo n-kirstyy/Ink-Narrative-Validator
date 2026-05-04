@@ -1,0 +1,122 @@
+Validation Report: bftests3.ink.json
+============================================================
+
+Dead Ends — 0
+----------------------------------------
+  No dead ends detected.
+
+Unreachable Nodes — 108
+----------------------------------------
+  ablution_fountain
+  altar_side_niches
+  annex_inner
+  annex_inner_search
+  annex_main_search
+  annex_main_space
+  annex_niches
+  bathing_pool
+  box_examination
+  central_dais
+  ceramic_vessel
+  ceremonial_courtyard
+  channel_examination_t
+  channel_source
+  clay_tablet
+  courtyard_far_gate
+  courtyard_perimeter
+  crypt_far_passage
+  crypt_tombs
+  crypt_warnings
+  dais_carvings
+  dais_standing
+  deep_crypt_passage
+  drainage_system
+  dressing_alcoves
+  east_passage_temple
+  eastern_annex
+  flooded_shaft
+  fountain_mechanism
+  fountain_use
+  garment_remnants
+  gate_mechanism_t
+  gatehouse_search_t
+  grove_offerings
+  grove_walk
+  guard_room_search_t
+  guard_room_t
+  hidden_barracks
+  high_altar_approach
+  high_altar_chamber
+  lower_crypt
+  lower_east_rooms
+  lower_east_search
+  lower_east_temple
+  niche_search_result
+  north_passage_temple
+  north_room_a
+  north_room_b
+  north_room_b_search
+  north_room_c
+  obsidian_maze
+  oldest_tree
+  outer_enclosure
+  outer_gatehouse
+  outer_temple_ring
+  panel_study
+  passage_doors_north
+  pilgrim_rest
+  pilgrim_rest_search
+  pilgrim_stones
+  pilgrim_way
+  pit_edge_search
+  pit_examination
+  pool_examination
+  preparation_inner
+  preparation_inner_search
+  priests_altar
+  priests_main_room
+  priests_quarters
+  priests_records
+  priests_sleeping
+  ring_carvings_east
+  ritual_preparation_hall
+  rock_cut_tomb
+  rock_tomb_inscription
+  rock_tomb_interior
+  sacred_grove
+  sarcophagus_exam
+  sealed_crypt_chamber
+  shrine_approach
+  shrine_offerings
+  shrine_panel
+  shrine_statue
+  stone_examination
+  stone_ring_east
+  stone_ring_north
+  stone_warmth
+  stream_arch
+  stream_bed_search
+  stream_crack
+  stream_outlet
+  stream_source
+  sunken_temple
+  tall_stone_study
+  tomb_inscriptions
+  treasury_hidden
+  treasury_locked_box
+  treasury_search_temple
+  treasury_temple
+  tree_offerings
+  underground_stream
+  votive_deposit_pit
+  water_channel
+  west_courtyard
+  west_courtyard_door
+  west_courtyard_search
+  west_courtyard_well
+  west_shrine
+
+Contradictions — 1
+----------------------------------------
+  Dead branches (variable state conflict on path):
+    rope_bridge_exit -> temple_exit  [variable: has_rope requires true, was set to false]

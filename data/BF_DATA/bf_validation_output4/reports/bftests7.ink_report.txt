@@ -1,0 +1,148 @@
+Validation Report: bftests7.ink.json
+============================================================
+
+Dead Ends — 0
+----------------------------------------
+  No dead ends detected.
+
+Unreachable Nodes — 134
+----------------------------------------
+  access_corridor_east
+  access_corridor_north
+  access_corridor_south
+  access_corridor_west
+  accommodation_search
+  air_data
+  air_quality_station
+  archive_central
+  archive_main_search
+  audit_office
+  audit_search
+  bio_archive
+  bio_archive_search
+  bio_lab
+  bio_lab_search
+  canteen_search
+  cells_search
+  classified_archive
+  classified_search
+  connecting_corridor_a
+  connecting_corridor_b
+  containment_cells
+  coord_archive
+  coord_archive_search
+  coord_meeting_room
+  coord_meeting_search
+  coord_office_search
+  core_examination
+  crossroads_seven
+  crystalline_prison
+  data_centre_search
+  decon_search
+  decontamination_room
+  dispatch_area_log
+  dispatch_search
+  east_grounds
+  east_grounds_search
+  emergency_communications
+  emergency_management
+  emergency_ops_room
+  emergency_ops_search
+  emergency_radio
+  emergency_storage
+  emergency_supply_search
+  energy_core
+  environmental_monitoring
+  evacuation_control
+  evacuation_routes
+  external_area
+  facility_canteen
+  facility_gym
+  facility_hub_seven
+  fence_breach
+  geology_room
+  geology_search
+  gym_search
+  helpdesk_search
+  historical_records
+  historical_search
+  inner_ring_corridor
+  it_archive
+  it_archive_search
+  it_centre
+  it_data_centre
+  it_helpdesk
+  junction_room_seven
+  liaison_offices
+  liaison_search
+  logistics_centre
+  logistics_office
+  logistics_office_search
+  lower_connecting_corridor
+  materials_archive
+  materials_archive_search
+  materials_lab
+  materials_search
+  medical_centre
+  medical_search
+  network_room
+  network_search
+  north_grounds
+  north_grounds_search
+  null_space
+  observation_tower
+  outer_ring_corridor
+  perimeter_fence_seven
+  personnel_archive
+  personnel_search
+  phantom_gallery
+  physics_archive
+  physics_archive_search
+  physics_lab
+  physics_search
+  qa_archive
+  qa_archive_search
+  qa_lab
+  qa_lab_search
+  quality_assurance
+  radiation_data
+  radiation_monitoring
+  receiving_bay_log
+  receiving_search
+  research_coordination
+  sample_storage
+  sample_storage_search
+  sealed_vault_wing
+  secondary_hub
+  sector_five
+  sector_seven
+  sector_six
+  seismic_data
+  seismic_station
+  service_corridor_seven
+  south_grounds
+  south_grounds_search
+  staff_accommodation
+  standards_room
+  standards_search
+  supply_store
+  supply_store_search
+  test_chamber
+  test_chamber_search
+  tower_base_search
+  tower_base_seven
+  tower_equip_search
+  tower_equipment
+  tower_middle
+  tower_middle_search
+  tower_top_seven
+  transit_hub_seven
+  upper_connecting_corridor
+  water_data
+  water_monitoring
+  welfare_block
+
+Contradictions — 1
+----------------------------------------
+  Dead branches (variable state conflict on path):
+    resonance_gate -> facility_exit  [variable: has_resonance_key requires true, was set to false]

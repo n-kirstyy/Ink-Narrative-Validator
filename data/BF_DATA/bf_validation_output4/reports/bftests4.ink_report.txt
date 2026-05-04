@@ -1,0 +1,18 @@
+Validation Report: bftests4.ink.json
+============================================================
+
+Dead Ends — 0
+----------------------------------------
+  No dead ends detected.
+
+Unreachable Nodes — 4
+----------------------------------------
+  collapsed_observatory
+  ghost_wing
+  tar_pit
+  void_corridor
+
+Contradictions — 1
+----------------------------------------
+  Dead branches (variable state conflict on path):
+    fuel_gate -> exit_node  [variable: has_fuel requires true, was set to false]
